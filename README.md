@@ -21,7 +21,7 @@ Currently, I'm focusing on strengthening my technical skills in programming, dat
 
 - 🎓 **University:** Ho Chi Minh City University of Technology (HUTECH)
 - 📚 **Academic Status:** Final-Year Student
-- 📊 **GPA:** 4.3/5.0
+- 📊 **GPA:** 3.42/4.0
 - 🎯 **Career Goal:** Data Engineer
 - 🌱 **Currently Learning:** Data Engineering, Big Data, and Cloud Technologies
 - 💡 **Interests:** Data Pipelines, ETL/ELT, Data Warehousing, and Distributed Computing
